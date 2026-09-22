@@ -1,0 +1,13 @@
+customer_id,total_orders,total_spending,average_order_value,average_rating,customer_segment
+C001,3,1840,613.3333333333334,4.366666666666666,Regular
+C002,2,550,275.0,4.3,Occasional
+C003,2,460,230.0,4.85,Occasional
+C004,2,1240,620.0,4.0,Regular
+C005,2,820,410.0,4.75,Occasional
+C006,2,1740,870.0,3.65,Regular
+C007,2,965,482.5,4.1,Occasional
+C008,1,890,890.0,3.7,Occasional
+C009,1,335,335.0,4.3,Occasional
+C010,1,610,610.0,4.0,Occasional
+C011,1,560,560.0,4.1,Occasional
+C012,1,220,220.0,4.7,Occasional

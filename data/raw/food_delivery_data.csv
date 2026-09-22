@@ -1,0 +1,21 @@
+Order ID,Customer ID,Customer Name,Restaurant Name,City,Cuisine,Order Date,Order Value,Delivery Fee,Discount,Delivery Time,Customer Rating,Payment Method,Order Status
+1001,C001,Arun Kumar,Spice Hub,Coimbatore,Indian,2026-01-03,420,35,20,28,4.6,UPI,Delivered
+1002,C002,Priya Sharma,Burger Craft,Chennai,Fast Food,2026-01-05,310,40,0,42,4.1,Card,Delivered
+1003,C003,Karthik Raj,Dosa Corner,Coimbatore,South Indian,2026-01-08,185,25,10,24,4.8,UPI,Delivered
+1004,C001,Arun Kumar,Pizza Point,Bengaluru,Italian,2026-01-12,680,55,50,63,3.9,Card,Delivered
+1005,C004,Divya Nair,Biryani House,Madurai,Biryani,2026-01-15,520,30,25,35,4.4,Cash,Delivered
+1006,C005,Vishal Kumar,Green Bowl,Chennai,Healthy,2026-01-18,390,35,30,29,4.7,UPI,Delivered
+1007,C006,Ananya Reddy,Tandoori Tales,Hyderabad,North Indian,2026-01-21,760,60,75,58,3.8,Card,Delivered
+1008,C002,Priya Sharma,Cafe Aroma,Chennai,Cafe,2026-01-25,240,20,15,22,4.5,UPI,Delivered
+1009,C007,Rahul Das,Noodle Nation,Bengaluru,Chinese,2026-02-02,450,45,35,47,4.2,Card,Delivered
+1010,C008,Keerthana S,Royal Meals,Coimbatore,Indian,2026-02-06,890,50,100,68,3.7,UPI,Delivered
+1011,C003,Karthik Raj,Dosa Corner,Coimbatore,South Indian,2026-02-10,275,25,0,26,4.9,Cash,Delivered
+1012,C009,Sanjay M,Wrap Street,Madurai,Fast Food,2026-02-14,335,30,20,34,4.3,UPI,Delivered
+1013,C010,Harini V,Biryani House,Hyderabad,Biryani,2026-02-18,610,45,40,55,4.0,Card,Delivered
+1014,C004,Divya Nair,Pizza Point,Bengaluru,Italian,2026-02-22,720,55,80,74,3.6,UPI,Delivered
+1015,C005,Vishal Kumar,Green Bowl,Chennai,Healthy,2026-02-27,430,35,25,31,4.8,Card,Delivered
+1016,C011,Naveen Raj,Spice Hub,Coimbatore,Indian,2026-03-03,560,35,60,44,4.1,UPI,Cancelled
+1017,C006,Ananya Reddy,Tandoori Tales,Hyderabad,North Indian,2026-03-07,980,65,120,82,3.5,Card,Delivered
+1018,C001,Arun Kumar,Royal Meals,Coimbatore,Indian,2026-03-12,740,45,50,39,4.6,UPI,Delivered
+1019,C007,Rahul Das,Noodle Nation,Bengaluru,Chinese,2026-03-18,515,40,30,52,4.0,Card,Delivered
+1020,C012,Meera Krishnan,Dosa Corner,Madurai,South Indian,2026-03-25,220,25,15,27,4.7,Cash,Delivered

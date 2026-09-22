@@ -1,0 +1,15 @@
+check,status
+Total orders match,PASS
+Total revenue matches,PASS
+Average order value matches,PASS
+Average delivery time matches,PASS
+Average rating matches,PASS
+Customer count matches,PASS
+Customer IDs are unique,PASS
+Customer spending matches revenue,PASS
+Customer order count matches,PASS
+No missing values,PASS
+Order IDs are unique,PASS
+Ratings are valid,PASS
+Order amounts are valid,PASS
+Delivery times are valid,PASS

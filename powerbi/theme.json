@@ -1,0 +1,100 @@
+{
+  "name": "Food Delivery Analytics",
+  "dataColors": [
+    "#55B8FF",
+    "#55D695",
+    "#A78BFA",
+    "#F5B84B",
+    "#FF6B78",
+    "#38D9C5",
+    "#7C9EFF",
+    "#F28ECA",
+    "#8D99AA",
+    "#6ED0FF"
+  ],
+  "background": "#0B0F17",
+  "foreground": "#F5F7FA",
+  "tableAccent": "#55B8FF",
+  "good": "#55D695",
+  "neutral": "#F5B84B",
+  "bad": "#FF6B78",
+  "maximum": "#55B8FF",
+  "center": "#A78BFA",
+  "minimum": "#161D2A",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#F5F7FA"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#F5F7FA"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#F5F7FA"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#8D99AA"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#121824"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#273244"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "text": "",
+            "fontColor": {
+              "solid": {
+                "color": "#F5F7FA"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 14
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#0B0F17"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
